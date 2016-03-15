@@ -3,5 +3,6 @@
     <pages>
         <page name='Schedullers'/>
         <page name='Generators 1'/>
+        <page name='Generators 2'/>
     </pages>
 </playground>
