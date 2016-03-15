@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Schedullers'/>
-        <page name='Generators'/>
+        <page name='Generators 1'/>
     </pages>
 </playground>
